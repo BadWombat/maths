@@ -7,4 +7,4 @@ print yy
 
 while how > 0:
   print "x ="how  "y ="yy
-  how = how - 1
+  how = how - dmain
