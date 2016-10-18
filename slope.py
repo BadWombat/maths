@@ -6,5 +6,5 @@ dmain = input("what is the domian?")
 print yy
 
 while how > 0:
-  print "x ="how  "y ="yy
   how = how - dmain
+  print yy
