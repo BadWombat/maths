@@ -7,4 +7,4 @@ print yy
 while how > 0:
   how = how - 1
   yy = mm + (bb * how)
-  print yy 
+  print yy how
