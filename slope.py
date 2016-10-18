@@ -7,4 +7,5 @@ print yy
 
 while how > 0:
   how = how - dmain
-  print yy
+  yy = mm + (bb * how)
+  print yy 
