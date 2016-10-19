@@ -4,10 +4,10 @@ how = input("How many repetitions?")
 dmain = input("what is the domain?")
 yy = bb + (mm * how)
 
-print "X = %s | Y = %s" % ( (how, yy)
+print "X = %s | Y = %s" % (how, yy)
 
 while how > 0:
   how = how - dmain
   yy = bb + (mm * how)
-  print yy
+  print "X = %s | Y = %s" % (how, yy)
 
